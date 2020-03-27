@@ -1,1 +1,3 @@
-# CS245_Stacks_Queues
+# CS 245 Practice Assignment -- Stacks and Queues
+
+See assignment details on Canvas.
